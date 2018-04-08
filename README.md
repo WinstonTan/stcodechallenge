@@ -14,3 +14,11 @@ Note:
 2. I don't see video in main article, I assume the video element would be within the same div class='pane-content' for main article in homepage.
 
 3. Currently I wrote a temporary workaround to get rid of the homepage advertisement frame by refreshing the page. This written in "Given" Login.feature step. 
+
+4. There's a bug found with the following steps in Android ST app: 
+(1) Launch ST app
+(2) Navigate to "LATEST" tab
+(3) Tap on one article
+(4) Without waiting the tapped article to load on screen, tap on another article
+
+Issue: ST app crashed immediately. 
