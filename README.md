@@ -20,5 +20,4 @@ Note:
 (2) Navigate to "LATEST" tab
 (3) Tap on one article
 (4) Without waiting the tapped article to load on screen, tap on another article
-
-Issue: ST app crashed immediately. 
+(Issue) ST app crashed immediately. 

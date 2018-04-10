@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f8c980-b1df-4942-9325-166290ae6497" name="Default" comment="" />
+    <list default="true" id="e1f8c980-b1df-4942-9325-166290ae6497" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/mobile/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/mobile/Hook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/mobile/MobileLogin.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,29 +25,41 @@
       <file leaf-file-name="MobileLogin.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MobileLogin.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MobileLogin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hook.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="45" column="49" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="49" />
+            <state relative-caret-position="328">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DelegatingMethodAccessorImpl.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -57,6 +78,9 @@
       <find>base.driver</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,14 +97,14 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/Hook.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/Login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steps/Login.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/steps/desktop/Hook.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/mobile/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/BaseUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/desktop/DesktopLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -92,10 +116,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="916" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
@@ -103,6 +128,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,12 +215,27 @@
               <item name="steps" type="462c0819:PsiDirectoryNode" />
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StraitsTimesTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StraitsTimesTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StraitsTimesTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StraitsTimesTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StraitsTimesTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StraitsTimesTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,14 +273,14 @@
     </option>
   </component>
   <component name="RunManager" selected="Cucumber java.Feature: MobileLogin">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="StraitsTimesTest" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="Feature: DesktopLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
+    <configuration name="Feature: DesktopLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="StraitsTimesTest" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
@@ -277,18 +319,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Cucumber java.Feature: MobileLogin" />
       <item itemvalue="Cucumber java.Feature: DesktopLogin" />
+      <item itemvalue="Cucumber java.Feature: MobileLogin" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber java.Feature: MobileLogin" />
-        <item itemvalue="Cucumber java.Feature: DesktopLogin" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\Winston Han\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -301,34 +342,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__Login_(1) - 2018.04.08 at 12h 35m 43s.xml">
-      <configuration name="Feature: Login (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Login_(1) - 2018.04.08 at 13h 00m 45s.xml">
-      <configuration name="Feature: Login (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Login_(2) - 2018.04.08 at 20h 11m 09s.xml">
-      <configuration name="Feature: Login (2)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Login_(2) - 2018.04.08 at 20h 12m 49s.xml">
-      <configuration name="Feature: Login (2)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Login_(3) - 2018.04.09 at 20h 46m 25s.xml">
-      <configuration name="Feature: Login (3)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Login_(3) - 2018.04.09 at 20h 56m 46s.xml">
-      <configuration name="Feature: Login (3)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__MobileLogin - 2018.04.09 at 21h 04m 17s.xml">
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 00m 23s.xml">
       <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__MobileLogin - 2018.04.09 at 21h 09m 48s.xml">
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 02m 59s.xml">
       <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__MobileLogin - 2018.04.09 at 21h 13m 20s.xml">
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 04m 05s.xml">
       <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__MobileLogin - 2018.04.09 at 21h 15m 31s.xml">
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 07m 01s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 12m 01s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 15m 50s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 18m 26s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 19m 56s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 34m 50s.xml">
+      <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__MobileLogin - 2018.04.10 at 22h 36m 05s.xml">
       <configuration name="Feature: MobileLogin" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
@@ -338,21 +379,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32939914" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="right" id="Flutter Outline" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16041666" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -360,16 +399,82 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32943678" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/features/desktop/DesktopLogin.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -619,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -655,24 +753,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature">
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="289">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/mobile/MobileLogin.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/Hook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="45" column="49" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="49" />
+        <state relative-caret-position="381">
+          <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#2409#2410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/mobile/MobileLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

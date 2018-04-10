@@ -37,18 +37,17 @@ public class Hook extends BaseUtil {
         File app = new File(appDir, "com.buuuk.st_308.apk");
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability(CapabilityType.BROWSER_NAME, "");
-        capabilities.setCapability("deviceName", "Nex");
+        capabilities.setCapability("deviceName", "OnePlus One");
         capabilities.setCapability("platformVersion", "7.1.1");
         capabilities.setCapability("platformName", "Android");
-        capabilities.setCapability("app", app.getAbsolutePath());
-        //capabilities.setCapability("appPackage", "in.amazon.mShop.android.shopping");
-        //capabilities.setCapability("appActivity", "com.amazon.mShop.home.HomeActivity");
+        capabilities.setCapability("app", "com.buuuk.st");
+        capabilities.setCapability("appPackage", app.getAbsolutePath());
+        capabilities.setCapability("noReset", true);
+        capabilities.setCapability("appActivity", "com.sph.straitstimes.views.activities.SplashActivity");
+
 
         base.androidDriver = new AndroidDriver(new URL("http://0.0.0.0:4723/wd/hub"), capabilities);
-        base.androidDriver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
-        Thread.sleep(10000);
-
+        base.androidDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
     @After
