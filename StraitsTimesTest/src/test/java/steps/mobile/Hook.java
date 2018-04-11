@@ -54,7 +54,7 @@ public class Hook extends BaseUtil {
     public void TearDownTest(Scenario scenario) {
         if (scenario.isFailed())
         {
-            /*
+
             try {
                 File scrFile = ((TakesScreenshot)base.driver).getScreenshotAs(OutputType.FILE);
                 DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy_MM_dd-HH_mm_ss");
@@ -62,7 +62,7 @@ public class Hook extends BaseUtil {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            */
+
         }
         base.androidDriver.quit();
     }
